@@ -1,0 +1,11 @@
+{
+  "name": "ignite-node-fundamentos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MauroBraga/ignite-node-fundamentos.git",
+  "author": "Mauro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
